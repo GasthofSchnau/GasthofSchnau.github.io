@@ -1,6 +1,13 @@
 <feed>
+    
     <entry>
         <title>Diese Nachricht wurde aus dem Internet geladen!</title>
         <content>Hallo Welt!</content>
     </entry>
+    
+    <entry>
+        <title>Test</title>
+        <content>Test #2</content>
+    </entry>
+    
 </feed>
