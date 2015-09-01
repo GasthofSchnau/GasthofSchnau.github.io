@@ -2,12 +2,12 @@
   
   <entry>
     <title>Test</title>
-    <content>Testnachricht</content>
+    <text>Testnachricht</text>
   </entry>
   
   <entry>
     <title>Test nummer zwei</title>
-    <content>Dies ist ein Test</content>
+    <text>Dies ist ein Test</text>
   </entry>
   
 </feed>
