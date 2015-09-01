@@ -1,1 +1,13 @@
-
+<feed>
+  
+  <entry>
+    <title>Test</title>
+    <content>Testnachricht</content>
+  </entry>
+  
+  <entry>
+    <title>Test nummer zwei</title>
+    <content>Dies ist ein Test</content>
+  </entry>
+  
+</feed>
