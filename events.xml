@@ -3,6 +3,10 @@
   <entry>
     <title>Test</title>
     <text>Testnachricht</text>
+    <date>3.9.15</date>
+    <time>19:18</time>
+    <price>10 €</price>
+    <status>Verfügbar</status>
   </entry>
   
   <entry>
