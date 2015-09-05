@@ -1,12 +1,12 @@
 <feed>
   
   <entry>
-    <title>Test</title>
-    <text>Testnachricht</text>
-    <date>3.9.15</date>
-    <time>19:18</time>
-    <price>10 €</price>
-    <status>Verfügbar</status>
+    <title>Schnitzelbuffet</title>
+    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
+    <date>3. September 2015</date>
+    <time>ab 18:00 Uhr</time>
+    <price>14,00 €</price>
+    <status>Status: Ausgebucht</status>
   </entry>
   
   <entry>
