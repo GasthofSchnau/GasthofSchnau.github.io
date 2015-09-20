@@ -1,6 +1,20 @@
 <feed>
-
-  <entry>
-  </entry>
-
+  
+  <group>
+    <title>Suppen</title>
+    
+    <entry>
+      <title>Leckere Suppe</title>
+      <text>DER TEXT</text>
+      <price>2483,2452 €</price>
+    </entry>
+    
+    <entry>
+      <title>Noch leckerere Suppe</title>
+      <text>DER TEXT nummer zwei</text>
+      <price>ZwanzigTausendEURO €</price>
+    </entry>
+    
+  </group>
+  
 </feed>
