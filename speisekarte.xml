@@ -29,4 +29,28 @@
     
   </group>
   
+  <group>
+    
+    <title>GEILO</title>
+    
+    <entry>
+      <title>Rumpsteak</title>
+      <text>LECKER LECKER!</text>
+      <price>18,90 €</price>
+    </entry>
+    
+    <entry>
+      <title>Rumpsteak</title>
+      <text>LECKER LECKER!</text>
+      <price>18,90 €</price>
+    </entry>
+    
+    <entry>
+      <title>Rumpsteak</title>
+      <text>LECKER LECKER!</text>
+      <price>18,90 €</price>
+    </entry>
+    
+  </group>
+  
 </feed>
