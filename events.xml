@@ -1,28 +1,48 @@
 <feed>
   
   <entry>
+    <title>Gala-Fischbuffet (Tag der Deutschen Einheit)</title>
+    <text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten</text>
+    <date>3. Oktober 2015</date>
+    <time>ab 11:30 Uhr</time>
+    <price>27,90 €</price>
+    <more_info></more_info>
+  </entry>
+  
+  <entry>
     <title>Schnitzelbuffet - AUSGEBUCHT</title>
     <text>Reichhaltiges Buffet in gewohnter Qualität</text>
-    <date>3. September 2015</date>
+    <date>14. Oktober 2015</date>
     <time>ab 18:00 Uhr</time>
     <price>14,00 €</price>
     <more_info>Mehr Info\n\nTest\n\nIch teste Zeilenumbrüche.</more_info>
   </entry>
   
   <entry>
-    <title>Test #2</title>
+    <title>Schnitzelbuffet</title>
+    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
+    <date>28. Oktober 2015</date>
+    <time>ab 18:00 Uhr</time>
+    <price>14,00 €</price>
+    <more_info></more_info>
   </entry>
   
-    <entry>
-    <title>Test #3</title>
+  <entry>
+    <title>Gala-Fischbuffet</title>
+    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
+    <date>6. November 2015</date>
+    <time>ab 18:00 Uhr</time>
+    <price27,90 €</price>
+    <more_info></more_info>
   </entry>
   
-    <entry>
-    <title>Test #4</title>
-  </entry>
-  
-    <entry>
-    <title>Test #5</title>
+  <entry>
+    <title>Gans "satt"</title>
+    <text>Vorsuppe\n\nFeines von der Gans, Keule und Brust, dazu Salzkartoffeln, Kartoffelklöße, Rotkohl und Rosenkohl\n\nDessert</text>
+    <date>22. November 2015</date>
+    <time>ab 11:30 Uhr</time>
+    <price>24,90 €</price>
+    <more_info></more_info>
   </entry>
   
 </feed>
