@@ -4,45 +4,18 @@
     <title>Gala-Fischbuffet</title>
     <text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten</text>
     <date>3. Oktober 2015</date>
-    <time>ab 11:30 Uhr</time>
+    <time></time>
     <price>27,90 €</price>
-    <more_info></more_info>
-  </entry>
-  
-  <entry>
-    <title>Schnitzelbuffet - AUSGEBUCHT</title>
-    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
-    <date>14. Oktober 2015</date>
-    <time>ab 18:00 Uhr</time>
-    <price>14,00 €</price>
-    <more_info>Mehr Info\n\nTest\n\nIch teste Zeilenumbrüche.</more_info>
-  </entry>
-  
-  <entry>
-    <title>Schnitzelbuffet</title>
-    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
-    <date>28. Oktober 2015</date>
-    <time>ab 18:00 Uhr</time>
-    <price>14,00 €</price>
-    <more_info></more_info>
-  </entry>
-  
-  <entry>
-    <title>Gala-Fischbuffet</title>
-    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
-    <date>6. November 2015</date>
-    <time>ab 18:00 Uhr</time>
-    <price>27,90 €</price>
-    <more_info></more_info>
-  </entry>
-  
-  <entry>
-    <title>Gans "satt"</title>
-    <text>Vorsuppe\n\nFeines von der Gans, Keule und Brust, dazu Salzkartoffeln, Kartoffelklöße, Rotkohl und Rosenkohl\n\nDessert</text>
-    <date>22. November 2015</date>
-    <time>ab 11:30 Uhr</time>
-    <price>24,90 €</price>
-    <more_info></more_info>
+    <more_info><u>Test!</u></more_info>
   </entry>
   
 </feed>
+
+  <entry>
+    <title></title>
+    <text></text>
+    <date></date>
+    <time></time>
+    <price></price>
+    <more_info></more_info>
+  </entry>
