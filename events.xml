@@ -6,7 +6,7 @@
     <date>3. Oktober 2015</date>
     <time></time>
     <price>27,90 €</price>
-    <more_info><u>Test</u></more_info>
+    <more_info>&lt;u>Test&lt;/u></more_info>
   </entry>
   
 </feed>
