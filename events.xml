@@ -1,3 +1,3 @@
 <feed>
-  <entry><title>Hier bitte Titel eintragen</title><text>Hier bitte Kurzbeschreibung eintragen</text><date>Hier bitte Datum eintragen</date><time>Hier bitte Datum eintragen</time><price>Hier bitte Preis eintragen</price><more_info>Hier bitte Mehr Info eintragen</more_info></entry>
+  <entry><title>Hier bitte Titel eintragen</title><text>Hier bitte Kurzbeschreibung eintragen</text><date>Hier bitte Datum eintragen</date><time>Hier bitte Datum eintragen</time><price>Hier bitte Preis eintragen</price><more_info>Hier bitte Mehr Info eintragen\n&lt;u>Das ist unterstrichen&lt;/u></more_info></entry>
 </feed>
