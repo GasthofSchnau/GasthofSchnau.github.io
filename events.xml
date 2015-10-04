@@ -1,12 +1,30 @@
 <feed>
   
   <entry>
-    <title>Gala-Fischbuffet</title>
-    <text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten</text>
-    <date>3. Oktober 2015</date>
-    <time></time>
-    <price>27,90 €</price>
+    <title>Schnitzelbuffet - AUSGEBUCHT</title>
+    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
+    <date>14. Oktober 2015</date>
+    <time> ab 18:00 Uhr</time>
+    <price>14,00 €</price>
+    <more_info>&lt;u>Test&lt;/u></more_info>
+  </entry>
+  
+  <entry>
+    <title>Schnitzelbuffet</title>
+    <text>Reichhaltiges Buffet in gewohnter Qualität</text>
+    <date>28. Oktober 2015</date>
+    <time>ab 18:00 Uhr</time>
+    <price>14,00 €</price>
     <more_info>&lt;u>Test&lt;/u></more_info>
   </entry>
   
 </feed>
+
+  <entry>
+    <title></title>
+    <text></text>
+    <date></date>
+    <time></time>
+    <price></price>
+    <more_info>&lt;u>Test&lt;/u></more_info>
+  </entry>
