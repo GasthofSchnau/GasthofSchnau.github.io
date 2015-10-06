@@ -23,4 +23,13 @@
     
   </group>
   
+  <group>
+    <title>Geflügel</title>
+    
+    <entry><title>Streifen vom gebratenen Hähnchenbrustfilet</title><text>mit frischen Champignons in einer Basilikum-Sahnesauce, dazu Tagliatelle und einen Salatteller</text><price>11,90 €</price></entry>
+    <entry><title>Hähnchenbrustfilet "Jay Jay"</title><text>mit Schmand und Bacon überbacken dazu Pommes Frites und einen Salatteller</text><price>11,90 €</price></entry>
+    <entry><title>Hähnchenbrustfilet "Amsterdam"</title><text>mit Schinken, Champignons und Käse überbacken, dazu Rosmarinkartoffeln und einen Salatteller</text><price>11,90 €</price></entry>
+    
+  </group>
+  
 </feed>
