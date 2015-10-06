@@ -3,53 +3,22 @@
   <group>
     <title>Suppen</title>
     
-    <entry>
-      <title>Leckere Suppe</title>
-      <text>DER TEXT</text>
-      <price>2483,2452 €</price>
-    </entry>
-    
-    <entry>
-      <title>Noch leckerere Suppe</title>
-      <text>Sehr, sehr geil!</text>
-      <price>10 €</price>
-    </entry>
+    <entry><title>Hochzeitssuppe</title><text>nach "Art des Hauses"</text><price>2,90 €</price></entry>
+    <entry><title>Tagessuppe</title><text></text><price>3,00 €</price></entry>
     
   </group>
   
   <group>
+    <title>Salatvariation</title>
     
-    <title>Vom Rind</title>
-    
-    <entry>
-      <title>Rumpsteak</title>
-      <text>LECKER LECKER!</text>
-      <price>18,90 €</price>
-    </entry>
+    <entry><title>Bunter Salatteller</title><text>mit gebratenen Poulardenbruststreifen, dazu Baguette, Joghurt- und Cocktaildressing</text><price>7,90 €</price></entry>
     
   </group>
   
   <group>
+    <title>Vegetarisch</title>
     
-    <title>Auch lecker:</title>
-    
-    <entry>
-      <title>Rumpsteak</title>
-      <text>LECKER LECKER!</text>
-      <price>18,90 €</price>
-    </entry>
-    
-    <entry>
-      <title>Rumpsteak</title>
-      <text>LECKER LECKER!</text>
-      <price>18,90 €</price>
-    </entry>
-    
-    <entry>
-      <title>Rumpsteak</title>
-      <text>LECKER LECKER!</text>
-      <price>18,90 €</price>
-    </entry>
+    <entry><title>Tagliatelle</title><text>mit Ratatouille</text><price>7,50 €</price></entry>
     
   </group>
   
