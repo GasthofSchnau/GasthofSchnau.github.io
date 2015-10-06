@@ -45,4 +45,49 @@
      
   </group>
   
+  <group>
+    <title>Rind</title>
+    
+    <entry><title>Rumpsteak mit Schmorzwiebeln,</title><text>Kroketten und einem bunten Salatteller</text><price>18,50 €</price></entry>
+    <entry><title>Rumpsteak "Heye"</title><text>mit frischen Champignons, Bratkartoffeln und einem Salatteller</text><price>18,90 €</price></entry>
+    <entry><title>Rumpsteak "Mediterran"</title><text>mit Rosmarinkartoffeln und Ratatouille</text><price>18,90 €</price></entry>
+    
+  </group>
+  
+  <group>
+    <title>Steakteller</title>
+    
+    <entry><title>Kleines Rumpsteak, Schweinefilet im Speckmantel und Hähnchenbrustfilet "Jay Jay"</title><text>(mit Schmand und Bacon überbacken), dazu Sauce Hollandaise, Bratkartoffeln und eine Gemüseauswahl</text><price>16,50 €</price></entry>
+  </group>
+  
+  <group>
+    <title>Fisch</title>
+    
+    <entry><title>Drei Matjesfilet</title><text>nach „Hausfrauenart" mit Apfel-Zwiebelsauce, dazu Bratkartoffeln</text><price>9,90 €</price></entry>
+    <entry><title>Paniertes Schollenfilet</title><text>mit Bratkartoffeln und einem frischen Salatteller</text><price>12,70 €</price></entry>
+    <entry><title>Gebratenes Zanderfilet</title><text>mit Tagliatelle und Ratatouille</text><price>13,50 €</price></entry>
+     <entry><title>Gebratenes Limandesfilet</title><text>mit Rosmarinkartoffeln und einem Salatteller</text><price>15,90 €</price></entry>
+     
+  </group>
+  
+  <group>
+    <title>Aus der Hausschlachtung</title>
+    
+    <entry><title>Knipp aus eigener Herstellung</title><text>mit Bratkartoffeln und einer Gewürzgurke</text><price>7,90 €</price></entry>
+    <entry><title>Sülze aus eigener Herstellung</title><text>mit Bratkartoffeln und Remouladensauce</text><price>8,50 €</price></entry>
+    
+  </group>
+  
+  <group>
+    <title>Kinder-Speisekarte</title>
+    
+    <entry><title>Portion Pommes Frites</title><text>mit Ketchup / Mayonnaise</text><price>2,00 €</price></entry>
+    <entry><title>Pfannkuchen</title><text>mit Apfelmus</text><price>3,00 €</price></entry>
+    <entry><title>Spaghetti</title><text>mit Tomatensauce</text><price>3,50 € </price></entry>
+    <entry><title>Vier Fischstäbchen</title><text>mit Pommes Frites und Rohkostspieß</text><price>4,00 €</price></entry>
+    <entry><title>Sechs Chicken-Nuggets</title><text>mit Pommes Frites und Rohkostspieß</text><price>4,50 €</price></entry>
+    <entry><title>Ein kleines Schweineschnitzel</title><text>mit Kroketten und Rohkostspieß</text><price>4,50 €</price></entry>
+    
+  </group>
+  
 </feed>
