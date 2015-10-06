@@ -1,10 +1,6 @@
 <feed>
     
-    <!-- Nur EIN Entry -->
-    
-    <entry>
-        <title>Frische Pfifferlinge in verschiedenen Variationen</title>
-        <text>Pfifferlingscrèmesuppe\n3,50 €\n\nGebratene Pfifferlinge mit Kräuterrührei und Salat\n9,50 €\n\nSommerliche Salate mit gebratenen Pfifferlingen, Kirschtomaten und Balsamicozwiebeln\n9,90 €\n\nRahmpfifferlinge mit Berner Rösti und einem Salatteller\n9,90 €\n\nTagliatelle mit Pfifferlingsrahm und gebratenen Schweinefiletspitzen\n11,90 €\n\nHähnchenbrustfilet im Speckmantel mit Pfifferlings-Tomatenragout und Kartoffelknoblauchpüree\n13,90 €\n\nSchweinefilet mit sautierten Pifferlingen gefüllt und Käse überbacken, dazu Bratkartoffeln und einen Salatteller\n15,90 €\n\nKaiserschmarrn mit Zwetschgenkompott\n3,50 €</text>
-    </entry>
+<entry><title>Bayrische Wochen</title><text>8 Nürnberger Rostbratwürstl, dazu Kartoffelpüree und Sauerkraut\n6,90 €\n\nZwei Paar Münchener Weisswurst mit süßem Senf, Kartoffelpürree und Krautsalat\n6,90 €\n\n \n\nFleischkäse mit Bratkartoffeln, Krautsalat und zwei Spiegeleiern\n9,50 €\n\nSchweinshaxe mit Kartoffelpürree und Sauerkraut\n9,90 €\n\n ...und dazu:\n\nFranziskaner Hefe-Weizenbier 0,3 Ltr. vom Fass 2,50 €\nFranziskaner Hefe-Weizenbier 0,5 Ltr. vom Fass 3,90 €\n\nFranziskaner Hefe-Weizenbier 0,33 Ltr. alkoholfrei 2,30 €\nFranziskaner Hefe-Weizenbier 0,5 Ltr.  alkoholfrei 3,70 €</text></entry>
+
     
 </feed>
