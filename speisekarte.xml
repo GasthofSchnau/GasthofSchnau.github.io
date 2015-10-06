@@ -32,4 +32,17 @@
     
   </group>
   
+  <group>
+    <title>Schwein</title>
+    
+    <entry><title>Schnitzel "Wiener Art"</title><text>mit Pommes Frites und einer Gemüseauswahl</text><price>10,80 €</price></entry>
+    <entry><title>Zigeunerschnitzel mit Paprikasauce,</title><text>Pommes Frites und kleinem Salatteller</text><price>11,00 €</price></entry>
+    <entry><title>Jägerschnitzel mit frischen Champignons,</title><text>Bratkartoffeln und einem kleinen Salatteller</text><price>11,40 €</price></entry>
+    <entry><title>Schnitzel "Holsteiner Art"</title><text>mit zwei Spiegeleiern, Bratkartoffeln und einem Salat</text><price>11,40 €</price></entry>
+     <entry><title>Schnitzel "Hawaii"</title><text>mit Ananas und Käse überbacken, dazu Kartoffelkroketten und einen Salatteller</text><price>11,40 €</price></entry>
+     <entry><title>Schnitzel "Amsterdam"</title><text>mit Schinken, Champignons und Käse überbacken, dazu Rosmarinkartoffeln und eine Gemüseauswahl</text><price>11,70 €</price></entry>
+     <entry><title>Medaillons vom Schweinefilet</title><text>mit Zwiebeln und Käse gratiniert, dazu Kartoffelkroketten und Mischgemüse</text><price>13,00 €</price></entry>
+     
+  </group>
+  
 </feed>
