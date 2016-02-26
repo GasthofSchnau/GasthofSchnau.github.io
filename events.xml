@@ -31,4 +31,9 @@
   <entry><title>Weihnachtsbuffet</title><text>Ein vielfältiges Weihnachtsbuffet für die ganze Familie\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>26. Dezember 2016</date><time>ab 11:30 Uhr</time><price></price><more_info>Weihnachtsbuffet</more_info></entry>
   <entry><title>Silvesterbuffet</title><text>Großes Gala-Dinner-Buffet in gemütlicher Atmosphäre\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>31. Dezember 2016</date><time>von 18:00 bis 23:00 Uhr</time><price></price><more_info>Silvesterbuffet</more_info></entry>
 
+ <entry><title>Kohlfahrt</title><text>Party mit "Speedy`s Surprise"\nIdeale Wanderwege\nBuslinie 630 / 670 vor der Tür\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>21. Januar 2017</date><time>18:00 bis 24:00 Uhr</time><price>43,00 € \n(All inclusive)</price><more_info>Kohlfahrt</more_info></entry>
+<entry><title>Kohlfahrt</title><text>Party mit "Speedy`s Surprise"\nIdeale Wanderwege\nBuslinie 630 / 670 vor der Tür\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>28. Januar 2017</date><time>18:00 bis 24:00 Uhr</time><price>43,00 € \n(All inclusive)</price><more_info>Kohlfahrt</more_info></entry>
+<entry><title>Kohlfahrt</title><text>Party mit "Speedy`s Surprise"\nIdeale Wanderwege\nBuslinie 630 / 670 vor der Tür\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>11. Februar 2017</date><time>18:00 bis 24:00 Uhr</time><price>43,00 € \n(All inclusive)</price><more_info>Kohlfahrt</more_info></entry>
+
+
 </feed>
