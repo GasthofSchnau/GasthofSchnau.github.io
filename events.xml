@@ -16,6 +16,8 @@
   <entry><title>Gala-Fischbuffet</title><text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>22. April 2016</date><time>ab 18:00 Uhr</time><price>27,90 €</price><more_info>Gala-Fischbuffet</more_info></entry>
   
   <entry><title>Spargelbuffet</title><text>Frischer Bülstedter Spargel mit vielen verschiedenen Beilagen, Suppe und Dessert\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>05. Mai 2016</date><time>ab 12:00 Uhr</time><price>24,50 €</price><more_info>Spargelbuffet</more_info></entry>
+<entry><title>Spargelbuffet (ZUSATZTERMIN)</title><text>Frischer Bülstedter Spargel mit vielen verschiedenen Beilagen, Suppe und Dessert\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>06. Mai 2016</date><time>ab 18:00 Uhr</time><price>24,50 €</price><more_info>Spargelbuffet</more_info></entry>
+
 <entry><title>Spargelbuffet</title><text>Frischer Bülstedter Spargel mit vielen verschiedenen Beilagen, Suppe und Dessert\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>08. Mai 2016</date><time>ab 12:00 Uhr</time><price>24,50 €</price><more_info>Spargelbuffet</more_info></entry>
 <entry><title>Schnitzelbuffet</title><text>Reichhaltiges Buffet in gewohnter Qualität\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>12. Mai 2016</date><time>ab 18:00 Uhr</time><price>14,00 €</price><more_info>Schnitzelbuffet</more_info></entry>
 
