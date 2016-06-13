@@ -13,9 +13,16 @@
 <more_info><name>Spargelbuffet</name><text>&lt;u>&lt;b>Spargelbuffet&lt;/b>&lt;/u>\n\n&lt;u>Spargelcrèmesuppe&lt;/u>\n \nWeißer Spargel\nGrüner Spargel\n \nKochschinken\nRoher Schinken\nWürfelschinken\nRäucherlachs\nSchweineschnitzel\nSchweinefilet\nHähnchenbrustfilet\nKräuterrührei\n \nSalzkartoffeln\nRosmarinkartoffeln\n \nButtersauce\nSauce Hollandaise\n \nSpargelsalat\nKopfsalat in Rahm\nSchnittlauch\n \nKäseplatte\nBrot\nButter\n \n&lt;u>Dessertbuffet&lt;/u></text></more_info>
  
 <entry><title>Schnitzelbuffet</title><text>Reichhaltiges Buffet in gewohnter Qualität\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>11.08.2016</date><time>ab 18:00 Uhr</time><price>15,00 €</price><more_info>Schnitzelbuffet</more_info></entry>
+<entry><title>Schnitzelbuffet</title><text>Reichhaltiges Buffet in gewohnter Qualität\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>01. September 2016</date><time>ab 18:00 Uhr</time><price>15,00 €</price><more_info>Schnitzelbuffet</more_info></entry>
 
 
 <entry><title>Gala-Fischbuffet</title><text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>07. Oktober 2016</date><time>ab 18:00 Uhr</time><price>27,90 €</price><more_info>Gala-Fischbuffet</more_info></entry>
+
+<entry><title>Gans "satt"</title><text>Vorsuppe\n\nFeines von der Gans, Keule und Brust,\ndazu Salzkartoffeln, Kartoffelklöße,\nRotkohl und Rosenkohl\n\nDessert\n\n - Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>11. November 2016</date><time>ab 18:00 Uhr</time><price>(weitere Info's folgen)</price><more_info>Gans satt</more_info></entry>
+<entry><title>Gans "satt"</title><text>Vorsuppe\n\nFeines von der Gans, Keule und Brust,\ndazu Salzkartoffeln, Kartoffelklöße,\nRotkohl und Rosenkohl\n\nDessert\n\n - Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>13. November 2016</date><time>ab 12:00 Uhr</time><price>(weitere Info's folgen)</price><more_info>Gans satt</more_info></entry>
+<entry><title>Gans "satt"</title><text>Vorsuppe\n\nFeines von der Gans, Keule und Brust,\ndazu Salzkartoffeln, Kartoffelklöße,\nRotkohl und Rosenkohl\n\nDessert\n\n - Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>20. November 2016</date><time>ab 12:00 Uhr</time><price>(weitere Info's folgen)</price><more_info>Gans satt</more_info></entry>
+<entry><title>Gans "satt"</title><text>Vorsuppe\n\nFeines von der Gans, Keule und Brust,\ndazu Salzkartoffeln, Kartoffelklöße,\nRotkohl und Rosenkohl\n\nDessert\n\n - Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>26. November 2016</date><time>ab 18:00 Uhr</time><price>(weitere Info's folgen)</price><more_info>Gans satt</more_info></entry>
+
 
  <entry><title>Adventsbuffet</title><text>Ein Gourmet-Buffet der Spitzenklasse mit (vor-)weihnachtlichen Köstlichkeiten!\n\n- Nur Vorbestellungen -\n\n(weitere Info`s folgen)</text><ausgebucht>false</ausgebucht><date>02. Dezember 2016</date><time>ab 18:00 Uhr</time><price>28,90 €</price><more_info>Adventsbuffet</more_info></entry>
  
