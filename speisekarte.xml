@@ -4,9 +4,9 @@
     <title>Öffnungszeiten</title>
     
     <entry><title>Montag und Dienstag</title><text></text><price>geschlossen</price></entry>
-    <entry><title>Mittwoch bis Freitag</title><text>Nur für Gruppen, Veranstaltungen und Feiern nach voheriger Absprache</text><price>ab 16:00 Uhr geöffnet</price></entry>
-    <entry><title>Samstag</title><text>Nur für Gruppen, Veranstaltungen und Feiern nach voheriger Absprache</text><price></price></entry>
-    <entry><title>Sonntag</title><text>Nur für Gruppen, Veranstaltungen und Feiern nach voheriger Absprache</text><price></price></entry>
+    <entry><title>Mittwoch bis Freitag</title><text>Nur für Gruppen, Veranstaltungen und Feiern nach voheriger Absprache</text><price>Ab 16:00 Uhr geöffnet</price></entry>
+    <entry><title>Samstag</title><text>Nur für Gruppen, Veranstaltungen und Feiern nach voheriger Absprache</text><price>Ab 11:00 Uhr geöffnet</price></entry>
+    <entry><title>Sonntag</title><text>Ab 10:00 Uhr geöffnet</text><price>blabla\nbla</price></entry>
     
   </group>
   
