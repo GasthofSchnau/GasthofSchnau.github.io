@@ -29,7 +29,8 @@
 
   <entry><title>Gala-Fischbuffet</title><text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>14. April 2017</date><time>ab 12:00 Uhr</time><price>27,90 €</price><more_info>Gala-Fischbuffet</more_info></entry>
 
-  
+  <entry><title>Osterbuffet</title><text>Ein vielfältiges Osterbuffet für die ganze Familie\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>16. April 2017</date><time>ab 12:00 Uhr</time><price>29,50 €</price><more_info>Osterbuffet</more_info></entry>
+
   
   <entry><title>Spargelbuffet</title><text>Spargelcrèmesuppe\n\nFrischer Bülstedter Spargel mit vielen verschiedenen Beilagen\n\nDessertbuffet\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>5. Mai 2017</date><time>ab 18:00 Uhr</time><price>(Preisangabe folgt)</price><more_info>Spargelbuffet</more_info></entry>
 
@@ -39,5 +40,6 @@
 
   <entry><title>Spargelbuffet</title><text>Spargelcrèmesuppe\n\nFrischer Bülstedter Spargel mit vielen verschiedenen Beilagen\n\nDessertbuffet\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>11. Juni 2017</date><time>ab 12:00 Uhr</time><price>(Preisangabe folgt)</price><more_info>Spargelbuffet</more_info></entry>
 
+    <entry><title>Kohlfahrt</title><text>Party mit "Speedy`s Surprise"\nIdeale Wanderwege\nBuslinie 630 / 670 vor der Tür\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>20. Januar 2018</date><time>18:00 bis 24:00 Uhr</time><price>43,00 € \n(All inclusive)</price><more_info>Kohlfahrt</more_info></entry>
 
 </feed>
