@@ -26,7 +26,7 @@
   
   <entry><title>Mediterranes Buffet</title><text>Umfangreiches Buffet mit verschiedenen mediterranen Spezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>27. Oktober 2017</date><time>ab 18:00 Uhr</time><price>28,90 €</price><more_info>Mediterranes Buffet</more_info></entry>
 
-   <entry><title>Gala-Fischbuffet</title><text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>10. November 2017</date><time>ab 18:00 Uhr</time><price>29,50 €</price><more_info>Gala-Fischbuffet</more_info></entry>
+   <entry><title>Gala-Fischbuffet</title><text>Große Auswahl an verschiedenen warmen und kalten Fischspezialitäten\n\n- Nur Vorbestellungen -</text><ausgebucht>true</ausgebucht><date>10. November 2017</date><time>ab 18:00 Uhr</time><price>29,50 €</price><more_info>Gala-Fischbuffet</more_info></entry>
   
   <entry><title>Gans "satt" (mittags)</title><text>Vorsuppe\n\nFeines von der Gans (Keule und Brust), dazu Salzkartoffeln, Kartoffelklöße, Rotkohl und Rosenkohl\n\nDessert\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>12. November 2017</date><time>ab 12:00 Uhr</time><price>(Preisangabe folgt)</price><more_info>Gans satt</more_info></entry>
 <entry><title>Gans "satt" (mittags)</title><text>Vorsuppe\n\nFeines von der Gans (Keule und Brust), dazu Salzkartoffeln, Kartoffelklöße, Rotkohl und Rosenkohl\n\nDessert\n\n- Nur Vorbestellungen -</text><ausgebucht>false</ausgebucht><date>17. November 2017</date><time>ab 12:00 Uhr</time><price>(Preisangabe folgt)</price><more_info>Gans satt</more_info></entry>
